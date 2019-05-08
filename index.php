@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>PDO - Read Records - PHP CRUD Tutorial</title>
+    <title>Lista Studenti Conservatorio PADOVA! </title>
      
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
